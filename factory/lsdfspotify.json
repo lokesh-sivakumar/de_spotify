@@ -1,0 +1,9 @@
+{
+	"name": "lsdfspotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fd09e2a-2f38-43d1-82f0-6e55d9432bc5",
+		"tenantId": "f42d967f-6aa2-4a0d-824a-b4f53898e5cd"
+	}
+}
