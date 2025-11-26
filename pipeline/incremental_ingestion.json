@@ -137,7 +137,7 @@
 				}
 			},
 			{
-				"name": "If Condition1",
+				"name": "If Condition",
 				"type": "IfCondition",
 				"dependsOn": [
 					{
