@@ -1,2 +1,2 @@
-# tutorial-projects
+# de_spotify_projects
 azure data engineering 
